@@ -1,0 +1,28 @@
+html {
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-size: 48px;
+  color: rgb(200, 32, 60);
+}
+
+h2 {
+  font-size: 30px;
+  color: green;
+}
+
+h3 {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.lorem-text {
+  font-size: 20px;
+  color: rgba(26, 19, 19, 0.517);
+  background-color: antiquewhite;
+}
+
+.specialties {
+  font-size: 20px;
+}
